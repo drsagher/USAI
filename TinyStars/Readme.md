@@ -89,5 +89,16 @@ Introduce loops as a way to repeat actions efficiently.
 [Lesson 18 Loops in Scratch Jr.](Lesson_18/Readme.md)
 
 
+## Unit 7 Events – Triggering Actions
+
+**Agenda**
+
+Understand how events trigger actions in coding and real life.
+
+[Lesson 19 Cause and Effect](Lesson_19/Readme.md)
+
+[Lesson 20 Event Blocks in Scratch Jr.](Lesson_20/Readme.md)
+
+[Lesson 21 Interactive Stories](Lesson_21/Readme.md)
 
 
