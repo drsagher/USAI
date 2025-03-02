@@ -76,3 +76,18 @@ Introduce the idea of giving step-by-step instructions (basic coding).
 [Lesson 15 Meet Scratch Jr.](Lesson_15/Readme.md)
 
 
+## Unit 6 Loops – Repeating Actions
+
+**Agenda**
+
+Introduce loops as a way to repeat actions efficiently.
+
+[Lesson 16 Repeating Sounds](Lesson_16/Readme.md)
+
+[Lesson 17 Looping Patterns](Lesson_17/Readme.md)
+
+[Lesson 18 Loops in Scratch Jr.](Lesson_18/Readme.md)
+
+
+
+
