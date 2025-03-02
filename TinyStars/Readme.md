@@ -143,3 +143,29 @@ Introduce students to creating and assigning unique roles to multiple characters
 [Lesson 30 Bringing Stories to Life – Act It Out!](Lesson_30/Readme.md)
 
 
+## Unit 11 Experiment with Custom Backgrounds and Sounds
+
+**Agenda**
+
+Encourage creativity and technical exploration by teaching students how to design custom backgrounds and incorporate sounds into their projects. This week focuses on enhancing storytelling, animations, or games using visual and auditory elements.
+
+[Lesson 31 Designing Custom Backgrounds](Lesson_31/Readme.md)
+
+[Lesson 32 Adding Sounds to Projects](Lesson_32/Readme.md)
+
+[Lesson 33 Combining Backgrounds and Sounds](Lesson_33/Readme.md)
+
+
+## Unit 12 Final Project Week – Create a Comprehensive Project Integrating All Concepts
+
+**Agenda**
+
+Culminate the Term-0 Tiny Stars program by having students design and present a final project that integrates all the STEM concepts, creativity, and teamwork skills they’ve learned throughout the course. This week emphasizes reflection, collaboration, and celebration of their achievements
+
+
+[Lesson 34 Planning Your Final Project](Lesson_34/Readme.md)
+
+[Lesson 35 Building Your Final Project](Lesson_35/Readme.md)
+
+[Lesson 36 Showcase and Celebration](Lesson_36/Readme.md)
+
