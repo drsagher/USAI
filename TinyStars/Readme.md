@@ -10,3 +10,28 @@ To introduce foundational STEM concepts in a playful, hands-on manner that align
 - Duration: 12 Weeks, 3 Lessons Per Week
 - Daily Exercise Time: ~15–20 Minutes per Session
 - Resources Needed: Everyday objects (e.g., blocks, cups, paper), simple craft materials, storytelling props, basic coding tools like Scratch Jr. (optional), and printed activity sheets.
+
+## Unit 1 Welcome to STEM World
+
+**Agenda**
+
+Introduce the concept of STEM through play and exploration.
+
+[Lesson 1 What is Science?](Lesson_01/Readme.md)
+
+[Lesson 2 What is Technology?](Lesson_02/Readme.md)
+
+[Lesson 3 What is Engineering?](Lesson_03/Readme.md)
+
+
+## Unit 2 Exploring Patterns
+
+**Agenda**
+
+Develop pattern recognition skills as a foundation for logical thinking.
+
+[Lesson 4 Spotting Patterns](Lesson_04/Readme.md)
+
+[Lesson 5 Patterns in Nature](Lesson_05/Readme.md)
+
+[Lesson 6 Patterns in Movement](Lesson_06/Readme.md)
