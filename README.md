@@ -6,6 +6,8 @@ Imagine a school where Kindergarten children can learn and play alongside artifi
 ## Kindergarten (K.G.) STEM Entrepreneurs
 Welcome to USAI Kindergarten, where curiosity meets innovation! Our comprehensive program is divided into four terms, each spanning 12 weeks and consisting of 36 classes, with three engaging sessions per week. Throughout the year, our young learners embark on an exciting journey, exploring coding, STEM, entrepreneurship, and phonics. From becoming Little Coders in Term-I to transforming into STEM Explorers in Term-II, Entrepreneurs in Term-III, and Phonics Wizards in Term-IV, our students develop essential skills, creativity, and critical thinking, setting them up for lifelong success.
 
+### [Term-0 Tiny Stars](TinyStars/Readme.md)
+
 ### [Term-I Little Coders](LittleCoders/Readme.md)
 
 ### Term-II STEM Explorers 
