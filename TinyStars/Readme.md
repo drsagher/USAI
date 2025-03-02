@@ -102,3 +102,17 @@ Understand how events trigger actions in coding and real life.
 [Lesson 21 Interactive Stories](Lesson_21/Readme.md)
 
 
+## Unit 8 Creative Projects
+
+**Agenda**
+
+Encourage creativity by combining learned concepts into projects
+
+[Lesson 22 My First Animation](Lesson_22/Readme.md)
+
+[Lesson 23 Build a Mini Game](Lesson_23/Readme.md)
+
+[Lesson 24 Showcase Day](Lesson_24/Readme.md)
+
+
+
