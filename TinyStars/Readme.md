@@ -50,4 +50,17 @@ Teach sequencing as a way to organize actions or events logically
 [Lesson 9 Building a Sequence](Lesson_09/Readme.md)
 
 
+## Unit 4 Problem Solving – Simple Challenges
+
+**Agenda**
+
+Encourage critical thinking and problem-solving through fun challenges
+
+[Lesson 10 Solve the Puzzle](Lesson_10/Readme.md)
+
+[Lesson 11 Fix It!](Lesson_11/Readme.md)
+
+[Lesson 12 Build a Bridge](Lesson_12/Readme.md)
+
+
 
