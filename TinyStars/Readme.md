@@ -115,4 +115,17 @@ Encourage creativity by combining learned concepts into projects
 [Lesson 24 Showcase Day](Lesson_24/Readme.md)
 
 
+## Unit 9 Introduce Teamwork by Creating Group Projects
+
+**Agenda**
+
+Foster collaboration, communication, and teamwork skills by having students work together on group projects that integrate previously learned STEM concepts.
+
+[Lesson 25 What is Teamwork?](Lesson_25/Readme.md)
+
+[Lesson 26 Building Together – Group Challenge](Lesson_26/Readme.md)
+
+[Lesson 27 Sharing Our Creations – Group Presentations](Lesson_27/Readme.md)
+
+
 
