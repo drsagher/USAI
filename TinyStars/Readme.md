@@ -35,3 +35,19 @@ Develop pattern recognition skills as a foundation for logical thinking.
 [Lesson 5 Patterns in Nature](Lesson_05/Readme.md)
 
 [Lesson 6 Patterns in Movement](Lesson_06/Readme.md)
+
+
+## Unit 3 Sequencing – Step-by-Step Thinking
+
+**Agenda** 
+
+Teach sequencing as a way to organize actions or events logically
+
+[Lesson 7 Follow the Steps](Lesson_07/Readme.md)
+
+[Lesson 8 Story Sequencing](Lesson_08/Readme.md)
+
+[Lesson 9 Building a Sequence](Lesson_09/Readme.md)
+
+
+
