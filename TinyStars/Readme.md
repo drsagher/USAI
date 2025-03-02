@@ -63,4 +63,16 @@ Encourage critical thinking and problem-solving through fun challenges
 [Lesson 12 Build a Bridge](Lesson_12/Readme.md)
 
 
+## Unit 5 Coding Basics – Giving Instructions
+
+**Agedna**
+
+Introduce the idea of giving step-by-step instructions (basic coding).
+
+[Lesson 13 Robot Game](Lesson_13/Readme.md)
+
+[Lesson 14 Arrow Paths](Lesson_14/Readme.md)
+
+[Lesson 15 Meet Scratch Jr.](Lesson_15/Readme.md)
+
 
