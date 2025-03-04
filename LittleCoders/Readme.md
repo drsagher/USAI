@@ -5,3 +5,18 @@ Little Coders is an engaging and playful introduction to the world of coding des
 **Goal**
 - Familiarize students with the Scratch Jr. interface and basic navigation.
 
+
+
+## Discovering Scratch Jr. 
+
+[Lesson 1 Meet Scratch Cat](Lesson_01/Readme.md)
+
+[Lesson 2 Colorful Worlds](Lesson_02/Readme.md)
+
+[Lesson 3 Magic Buttons](Lesson_03/Readme.md)
+
+[Lesson 4 Block Tray Hunt](Lesson_04/Readme.md)
+
+[Lesson 5 Drag & Drop Play](Lesson_05/Readme.md)
+
+[Lesson 6 Erase & Reset](Lesson_06/Readme.md)
