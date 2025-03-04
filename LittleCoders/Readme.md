@@ -7,7 +7,7 @@ Little Coders is an engaging and playful introduction to the world of coding des
 
 
 
-## Discovering Scratch Jr. 
+## Unit 1 Discovering Scratch Jr. 
 
 [Lesson 1 Meet Scratch Cat](Lesson_01/Readme.md)
 
