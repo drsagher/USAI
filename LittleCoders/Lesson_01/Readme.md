@@ -1,1 +1,2 @@
-# Lesson 01 
+# Lesson 01 Meet Scratch Cat!
+
