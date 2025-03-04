@@ -15,3 +15,18 @@ Little Coders is an engaging and playful introduction to the world of coding des
 [Lesson 5 Drag & Drop Play](Lesson_05/Readme.md)
 
 [Lesson 6 Erase & Reset](Lesson_06/Readme.md)
+
+
+## Unit 2 Making It Move
+
+[Lesson 7 Move Right/Left](Lesson_07/Readme.md)
+
+[Lesson 8 Up & Down](Lesson_08/Readme.md)
+
+[Lesson 9 Jumping Fun](Lesson_09/Readme.md)
+
+[Lesson 10 Two-Step Dance](Lesson_10/Readme.md)
+
+[Lesson 12 Speed Challenge](Lesson_11/Readme.md)
+
+[Lesson 13 Freeze Pose](Lesson_12/Readme.md)
