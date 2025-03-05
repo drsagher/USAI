@@ -27,6 +27,21 @@ Little Coders is an engaging and playful introduction to the world of coding des
 
 [Lesson 10 Two-Step Dance](Lesson_10/Readme.md)
 
-[Lesson 12 Speed Challenge](Lesson_11/Readme.md)
+[Lesson 11 Speed Challenge](Lesson_11/Readme.md)
 
-[Lesson 13 Freeze Pose](Lesson_12/Readme.md)
+[Lesson 12 Freeze Pose](Lesson_12/Readme.md)
+
+
+## Unit 3 Loops & Patterns 
+
+[Lesson 13 Repeat 2x](Lesson_13/Readme.md)
+
+[Lesson 14 Forever Loops](Lesson_14/Readme.md)
+
+[Lesson 15 Square Path](Lesson_15/Readme.md)
+
+[Lesson 16 Growing/Shrinking](Lesson_16/Readme.md)
+
+[Lesson 17 Starry Night](Lesson_17/Readme.md)
+
+[Lesson 18 Pattern Dance Party](Lesson_18/Readme.md)
