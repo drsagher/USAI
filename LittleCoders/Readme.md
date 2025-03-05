@@ -234,4 +234,4 @@ Summative assessments evaluate overall learning outcomes at the end of the term 
 
 ### Conclusion
 
-The **Term-1 Little Coders** assessment plan ensures that students’ progress is evaluated in a supportive, engaging, and meaningful way. By combining formative and summative assessments with a focus on creativity, teamwork, and STEM skills, the program lays a strong foundation for future learning while celebrating each child’s unique contributions and growth.
+By blending structured skill-building with playful exploration, this assessment plan ensures learners not only grasp coding fundamentals but also develop a lifelong love for creative problem-solving. The journey from Lesson 1 (Meet Scratch Cat) to Lesson 36 (Coding Certificate) empowers them to think, create, and share with confidence!
