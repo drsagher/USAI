@@ -45,3 +45,22 @@ Little Coders is an engaging and playful introduction to the world of coding des
 [Lesson 17 Starry Night](Lesson_17/Readme.md)
 
 [Lesson 18 Pattern Dance Party](Lesson_18/Readme.md)
+
+
+
+## Unit 4 Stories & Events  
+
+[Lesson 19 Start on Green Flag](Lesson_19/Readme.md)
+
+[Lesson 20 Tap Triggers](Lesson_20/Readme.md)
+
+[Lesson 21 Message Passing](Lesson_21/Readme.md)
+
+[Lesson 22 Change Backgrounds](Lesson_22/Readme.md)
+
+[Lesson 23 Character Conversations](Lesson_23/Readme.md)
+
+[Lesson 24 Sound Effects](Lesson_24/Readme.md)
+
+
+
