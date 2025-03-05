@@ -123,7 +123,7 @@ Little Coders is an engaging and playful introduction to the world of coding des
 
 **Objective:** 
 
-The assessment plan for *Term-0 Tiny Stars* is designed to evaluate students’ understanding of foundational STEM concepts, creativity, teamwork, and problem-solving skills in a playful and age-appropriate manner. The focus is on formative assessment through observation, participation, and project-based evaluation, ensuring that learning remains engaging and stress-free for young learners.
+The assessment plan for **Term-I Little Coders** is designed to evaluate students’ understanding of foundational STEM concepts, creativity, teamwork, and problem-solving skills in a playful and age-appropriate manner. The focus is on formative assessment through observation, participation, and project-based evaluation, ensuring that learning remains engaging and stress-free for young learners.
 
 
 
