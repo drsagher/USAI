@@ -66,17 +66,33 @@ Little Coders is an engaging and playful introduction to the world of coding des
 
 ## Unit 5 Creative Projects  
 
-[Lesson 25 Underwater Adventure](Lesson_19/Readme.md)
+[Lesson 25 Underwater Adventure](Lesson_25/Readme.md)
 
-[Lesson 26 Space Journey](Lesson_20/Readme.md)
+[Lesson 26 Space Journey](Lesson_26/Readme.md)
 
-[Lesson 27 Jungle Escape](Lesson_21/Readme.md)
+[Lesson 27 Jungle Escape](Lesson_27/Readme.md)
 
-[Lesson 28 Birthday Party](Lesson_22/Readme.md)
+[Lesson 28 Birthday Party](Lesson_28/Readme.md)
 
-[Lesson 29 Weather Report](Lesson_23/Readme.md)
+[Lesson 29 Weather Report](Lesson_29/Readme.md)
 
-[Lesson 30 My Family Story](Lesson_24/Readme.md)
+[Lesson 30 My Family Story](Lesson_30/Readme.md)
+
+
+
+## Unit 6 Showcase & Reflection   
+
+[Lesson 31 Project Planning](Lesson_31/Readme.md)
+
+[Lesson 32 Build Your World](Lesson_32/Readme.md)
+
+[Lesson 33 Debugging Fun](Lesson_33/Readme.md)
+
+[Lesson 34 Peer Sharing](Lesson_34/Readme.md)
+
+[Lesson 35 Parent Demo Day Prep](Lesson_35/Readme.md)
+
+[Lesson 36 Coding Certificate Ceremony](Lesson_36/Readme.md)
 
 
 
